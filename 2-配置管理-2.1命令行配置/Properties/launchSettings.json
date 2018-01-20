@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "2-配置管理-2.1命令行配置": {
+      "commandName": "Project",
+      "commandLineArgs": "name=test age=123"
+    }
+  }
+}
